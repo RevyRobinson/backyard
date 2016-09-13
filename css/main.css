@@ -8,12 +8,12 @@ a {
 /*HEADER*/
 
 .logo img {
-	width: 100%;
+	width: 45%;
 }
 .navbar li {
 	list-style: none;
 	display: inline-block;
-	margin-top: 15px;
+	margin-top: 30px;
 	padding-left: 20px;
 }
 .navbar ul {
@@ -102,32 +102,3 @@ footer a {
 	color:  #DA81F5;
 }
 
-@media (min-width: 535px) and (max-width: 824px) {
-	.desktop {
-		display: none;
-	}
-	.mobile {
-		display: inline;
-	}
-	.empty {
-		display: none;
-	}
-	.logo {
-		width: 30%;
-	}
-	.navbar {
-		width: 50%;
-	}
-	.text-area {
-		float: none;
-		width: 80%;
-		padding: 20px;
-	}
-	.suscribe-area {
-		margin-left: 20px;
-		margin-right: 20px;
-		margin-bottom: 20px;
-		float: none;
-		width: 75%;
-	}
-}

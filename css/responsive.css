@@ -1,0 +1,20 @@
+@media (max-width: 767px) {
+	.gray-box {
+		text-align: center;
+		padding-left: 15%;
+	}
+	.gray-box .col-7 {
+		width: 80%;
+	}
+	.gray-box .col-4 {
+		width: 80%;
+	}
+	.logo img {
+		width: 100%;
+	}
+}
+.navbar li {
+	margin-top: 10%;
+	padding-left: 5px;
+	font-size: 13px;
+}
